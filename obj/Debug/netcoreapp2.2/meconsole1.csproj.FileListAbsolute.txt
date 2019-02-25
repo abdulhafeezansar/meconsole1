@@ -1,0 +1,11 @@
+C:\Users\Ansar\vscodeapps\meconsole1\bin\Debug\netcoreapp2.2\meconsole1.deps.json
+C:\Users\Ansar\vscodeapps\meconsole1\bin\Debug\netcoreapp2.2\meconsole1.runtimeconfig.json
+C:\Users\Ansar\vscodeapps\meconsole1\bin\Debug\netcoreapp2.2\meconsole1.runtimeconfig.dev.json
+C:\Users\Ansar\vscodeapps\meconsole1\bin\Debug\netcoreapp2.2\meconsole1.dll
+C:\Users\Ansar\vscodeapps\meconsole1\bin\Debug\netcoreapp2.2\meconsole1.pdb
+C:\Users\Ansar\vscodeapps\meconsole1\obj\Debug\netcoreapp2.2\meconsole1.csprojAssemblyReference.cache
+C:\Users\Ansar\vscodeapps\meconsole1\obj\Debug\netcoreapp2.2\meconsole1.csproj.CoreCompileInputs.cache
+C:\Users\Ansar\vscodeapps\meconsole1\obj\Debug\netcoreapp2.2\meconsole1.AssemblyInfoInputs.cache
+C:\Users\Ansar\vscodeapps\meconsole1\obj\Debug\netcoreapp2.2\meconsole1.AssemblyInfo.cs
+C:\Users\Ansar\vscodeapps\meconsole1\obj\Debug\netcoreapp2.2\meconsole1.dll
+C:\Users\Ansar\vscodeapps\meconsole1\obj\Debug\netcoreapp2.2\meconsole1.pdb
